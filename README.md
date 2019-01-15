@@ -15,7 +15,7 @@ The data is meant to represent simple a sales funnel data or set of deal flows. 
 
 ## Questions
   1. How much total business was closed?
-  2. What is the total conversion rate from S1 to WON in USD?
+  2. What is the total conversion rate from S1 to `WON` in USD?
   3. What is the average size of deals `WON` in Q3?
   4. How many total `WON` deals were in each band: 50K-100K, 100K-250K, 250K-500K?
 
