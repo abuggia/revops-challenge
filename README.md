@@ -1,6 +1,6 @@
 # revops-challenge
 
-Use the data found in data.csv to answer the questions below.  Please use Excel or Google sheets for analysis.  All work to derive answers should be found in worksheets in the form of formulas and static cell content.  Once importing data.csv into Excel or Google Sheets, the calculations used to derive answers should reference the raw data (or derivations) and should be "live." In other words if I were to change the imported data, the answers should automatically update.
+Use the data found in data.csv to answer the questions below.  Please use Excel or Google sheets for analysis.  The answers and all work to used to calculate answers should be saved in a worksheet.  Once importing data.csv into Excel or Google Sheets, the calculations used to derive answers should reference the raw data (or derivations) and should be "live." In other words if I were to change the imported data, the answers should automatically update.
 
 ## Source Data
 
