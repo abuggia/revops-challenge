@@ -11,13 +11,13 @@ The data is meant to represent simple a sales funnel data or set of deal flows. 
   3. `WON` or `LOST` will always be the last stage in the flow.
   4. All deals start and end within 2018.  That is, for each company name, there will be a row for `S1` and a row for `WON` or `LOST` with a date in 2018.
   5. There is exactly one deal (flow through stages) for each company name.
-
+  6. All amounts are in USD
 
 ## Questions
   1. How much total business was closed?
-  2. What is the total conversion rate from S1 to WON?
-  3. What is the average ACV of deals closed in Q3?
-  4. How many total WON deals were in each ACV bands: 50K-100K, 100K-250K, 250K-500K?
+  2. What is the total conversion rate from S1 to WON in USD?
+  3. What is the average size of deals `WON` in Q3?
+  4. How many total `WON` deals were in each band: 50K-100K, 100K-250K, 250K-500K?
 
 ### Advanced Questions
 Advanced questions will be given onsite and will build on question #4 above.  There is an opportunity for the answers to the advanced questions to build on the answer to question #4.  If, as part of question #4, the candidate creates an additional column in the source data (or in another sheet that refers to the source data) containing a formula that determines the ACV band, then that column could be used in the answers for question #4 as well as the advanced questions.
