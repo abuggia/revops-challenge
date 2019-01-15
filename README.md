@@ -15,11 +15,7 @@ The data is meant to represent simple sales funnel data or deal flows.  Each dea
 
 ## Questions
   1. How much total business was closed?
-  2. What is the total conversion rate from S1 to WON?
-  3. How much business was closed in Q3?
   4. What is the average ACV of deals closed in Q3?
   5. How many total WON deals were in each ACV bands: 50K-100K, 100K-250K, 250K-500K?
-  6. Which ACV band and stage has the worst conversation rate?
-  7. How does average time-to-close vary by ACV bands: 50k-100K, 100K - 250K, 250K - 500K
 
 
